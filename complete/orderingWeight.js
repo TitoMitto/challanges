@@ -13,4 +13,3 @@ function orderWeight(strng) {
 }
 
 console.log(orderWeight("56 65 74 100 99 68 86 180 90"))
-
